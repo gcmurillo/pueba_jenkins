@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.PrimaTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-12-11T21:36:45" hostname="MSI" time="0.003">
+  <properties/>
+  <testcase name="testGetPrimaCaso1" classname="tests.PrimaTest" time="0.001"/>
+  <testcase name="testGetPrimaCaso2" classname="tests.PrimaTest" time="0.001"/>
+  <testcase name="testGetPrimaCaso3" classname="tests.PrimaTest" time="0.0"/>
+  <testcase name="testGetPrimaCaso4" classname="tests.PrimaTest" time="0.0"/>
+  <testcase name="testGetPrimaCaso5" classname="tests.PrimaTest" time="0.0"/>
+  <testcase name="testGetPrimaCaso6" classname="tests.PrimaTest" time="0.0"/>
+  <testcase name="testGetPrimaCaso7" classname="tests.PrimaTest" time="0.0"/>
+  <testcase name="testGetPrimaCaso8" classname="tests.PrimaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
